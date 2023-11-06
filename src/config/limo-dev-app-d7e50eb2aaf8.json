@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "limo-dev-app",
+  "private_key_id": "d7e50eb2aaf8f4fd3b9a1335711f696ac500f377",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNNKoNhUFiSara\nMgRVuStdA+Ber49nN2xJwtzsxCuePd/YOShC84mZSQx9TSSLRdfOwoKAg1NYt2xZ\nCAa4fwa+PsE5ktt/G1ys0TxyNM3p9VVFs9B+0yZ2irVxFMqicOX6YQi1eq/Y2MLC\npYTzTJeVGIYmAKo+a6NJJ74ky03HSihSu/E+RPa1bO5jyvw96xz0qRcjzIiEkZFD\n4deyjgumq2TW9Zc6S1AlGg+LSaSEeqJbSDL3mYhHf+HYMdItjlTTQErYQWsy0/Sw\nckyJIWLZDvfCaJ643E7hE9n8L8Eq8cJZjDD3YOLcPo1b7ePXOv/+F+LBRxTr+M74\nji9KbL55AgMBAAECggEACtP/l5NzhGTP8vZdGJga+99R5Jn6kcvwsK4epRCI6+KA\nWey4lvSg5LzGpiOYjRAHawdqhkhOJDB+ZohJsOYxcrJ/CBm1IvtMcM+trKnkP7cy\n/U8xIXzk2uNHRb5+65yhFgz7itzJdw86rIJT0wubAajeObBWGDfrBHFoOcRpYapy\nXybErPizOCHB8rBLGhqpTSN3ZOUD3/n7M52PKjcVFD+svB3JHbg18XA0ZYUgqOuy\n3RgCtV8GbMIgvd+gAuGwVtW8+OlKwCmxb2OJb6GwzhNiQITaXN+cJuQPGvzCKjvc\njO+5KeQhxA5e0RSrwhtMb4Wja5/IkR+U6Z5RqT3t3QKBgQD+9vWDF8KR6FlbkbND\ntSpGCSFfIPgzlT3uSbDW5V+ox01D00gpOOeyj4F00K+lxqndenq4qT4frTlc4NLE\nv+hdYAs+cBc4fUv+D04eBkSJ4RfJUmYNJBxYyqH6ny9U3XgwBsmAlCHXm1WnB5UH\nwSl39EK2Jide9/Tb1XvktFQ1WwKBgQDOCfrTFU6qFoNNy2XGik+A/VQggqiRvcEM\n0j/W7wmh3BlfuwxQp0JjO5GCknR3BFJkMxIZvyZB7qPcJ7aevD4ihkkfwP4PAl4q\n/XR7+a5uD7bXr2Yg/dNiUooBbVPH60EEIel8jY2RSaKGOVIe0NWS528vJdmfaVZP\nOfzkROdfuwKBgQDR2ggnFwZRO3FY2eo3X0RlEpzCBIvlQQARQdvodDAw5aFlot/w\n9eJWaKE/uYfopUQog+fAV6RHRDdDh9RSljW1rRh0EqQ6HX7PpF9CfRwqc/c0/7n5\nNPCT8GwzsJOvgP2sYdm2F7ZnFHYCHU5/bHAqSAQkkfCzzNhfnC32BqqMowKBgQCv\nd9ZRz/KXbebS6Oa7J+0/d/8eVMfEnqp7Bc9yd05nty8w1PZO9bLXGdL5NUrUVSzp\nwoimvqCRQ+/uvS+MjdoIwv4hedWj6KtTx1hdgKzpdJ6NnwXGEQTl1k9LmdThDFvp\nbgwPk+m9ks1DrCtgrQ9GNaz9pSlp1ma3wDW8HWZCowKBgELyhbsk9/CTAIdpFFsN\nAjEhlUOfklQV7zoy2rMU8KaRQFDOO1lto88IG3LJG5RUZQr4J5dBHJigKumByr98\nPuFQk+uh0sSrV6uqvoihC9SBiX2Jsp/BjzMVHfk9h9ZaJx9ufpbf/eOhj3eszDMM\nIdpEFqyaN8U7rfk1/24AHhxn\n-----END PRIVATE KEY-----\n",
+  "client_email": "limo-dev-app@appspot.gserviceaccount.com",
+  "client_id": "117864720195743162454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/limo-dev-app%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
