@@ -61,7 +61,7 @@ router.get("/", async (req, res) => {
     console.log("EN LA RUAT");
     //   await createPdfFromClient();
 
-    res.sendFile();
+    res.send("BIENVENIDO AL CONVERSOR 3.15");
   } catch (error) {
     console.log(error);
   }
