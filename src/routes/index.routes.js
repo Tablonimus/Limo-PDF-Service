@@ -3,7 +3,6 @@ const { createPdfFromClient } = require("../controllers/export");
 const path = require("path");
 const multer = require("multer");
 const router = Router();
-
 const { Storage } = require("@google-cloud/storage");
 
 const storage = multer.diskStorage({
@@ -58,10 +57,10 @@ router.post("/", upload.array("files", 5), async (req, res) => {
 
 router.get("/", async (req, res) => {
   try {
-    console.log("EN LA RUAT");
+    console.log("EN LA RUTA");
     //   await createPdfFromClient();
 
-    res.send("BIENVENIDO AL CONVERSOR 3.15");
+    res.status(200).json({ aa: "BIENVENIDO AL CONVERSOR 3.15" });
   } catch (error) {
     console.log(error);
   }
