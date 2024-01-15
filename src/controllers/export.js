@@ -8,7 +8,7 @@ async function createPdfFromClient(filePath, originalname) {
   // if (fs.existsSync(filePath)) fs.unlinkSync(filePath);
   //   const INPUT = "./Bodea Brochure.pdf";
   /* PDF FROM DOCX */
-  try {
+  try { 
     const credentials =
       PDFServicesSdk.Credentials.servicePrincipalCredentialsBuilder()
         .withClientId(PDF_SERVICES_CLIENT_ID)

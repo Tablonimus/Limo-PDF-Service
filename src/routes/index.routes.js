@@ -28,6 +28,7 @@ const bucket = firebaseStorage.bucket("limo-dev-app.appspot.com"); // Get this f
 
 router.post("/", upload.array("files", 5), async (req, res) => {
   try {
+    console.log("req log", req);
     let files = req.files;
 
     let outputPaths = [];
@@ -52,6 +53,7 @@ router.post("/", upload.array("files", 5), async (req, res) => {
     return res.status(200).json(outputPaths);
   } catch (error) {
     console.error(error);
+    return res.status(500).json("error");
   }
 });
 

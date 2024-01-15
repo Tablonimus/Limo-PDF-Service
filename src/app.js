@@ -3,7 +3,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 const server = express();
-server.name = "vm-api";
+server.name = "vm-api"; 
 
 //configuraciones de express
 server.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }));
