@@ -1,4 +1,4 @@
-const server = require("./src/app.js");
+const server = require("./src/server.js");
 
 /* --------------------- */
 server.listen(1212, () => {
